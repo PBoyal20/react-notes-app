@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-notes-app/static/js/main.f72d3e9b.js",
+    "index.html": "/react-notes-app/index.html",
+    "main.f72d3e9b.js.map": "/react-notes-app/static/js/main.f72d3e9b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f72d3e9b.js"
+  ]
+}
